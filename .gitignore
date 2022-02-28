@@ -1,6 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/*.csv
+/misc.xml
+/modules.xml
+/runConfigurations.xml
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
