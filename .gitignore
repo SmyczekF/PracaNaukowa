@@ -5,8 +5,14 @@
 /misc.xml
 /modules.xml
 /runConfigurations.xml
+/SatImg/
+/sd_0.1/
+/sd_0.2/
+/vehicle/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/*.zip
+/Lymph/
